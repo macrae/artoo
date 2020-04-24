@@ -1,0 +1,3 @@
+black
+pytest==5.4.1
+mypy==0.770
